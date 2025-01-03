@@ -2,24 +2,31 @@
     margin: 0;
 }
 .box {
+    border: 8px solid #581845;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #C70039;
+    background-color: #DAF7A6;
     margin: 10px;
     float: left;
     width: 33.33%; /* three boxes (use 25% for four, and 50% for two, etc) */
     padding: 60px; /* if you want space between the images */
   }
-  div{
+  /* div{
     border: 8px solid #581845;
     border-radius: 20px;
     box-shadow: 5px 5px 5px #C70039;
     background-color: #DAF7A6;
-  }
+  } */
   h1{
+    border: 2px solid #C70039;
+    border-radius: 3px;
     background-color: #FFC300;
     color: #581845;
     text-shadow: 2px 2px 3px #C70039;
     text-align: center;
   }
   p{
+    text-shadow: 1px 1px 2px #C70039;
     color: #C70039;
     text-align: justify;
   }
