@@ -1,5 +1,15 @@
+*{
+    margin: 0;
+}
 .box {
+    margin: 10px;
     float: left;
     width: 33.33%; /* three boxes (use 25% for four, and 50% for two, etc) */
-    padding: 50px; /* if you want space between the images */
+    padding: 60px; /* if you want space between the images */
+  }
+  div{
+    border: 3px solid #581845;
+  }
+  h1{
+    color: #581845;
   }
