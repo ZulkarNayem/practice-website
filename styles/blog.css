@@ -17,7 +17,17 @@
     background-color: #FFC300;
     color: #581845;
     text-shadow: 2px 2px 3px #C70039;
+    text-align: center;
   }
   p{
     color: #C70039;
+    text-align: justify;
+  }
+  .center {
+    margin: 0;
+    position: absolute;
+    /* top: 50%; */
+    /* left: 50%; */
+    /* -ms-transform: translate(-50%, -50%); */
+    /* transform: translate(-50%, -50%); */
   }
