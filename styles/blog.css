@@ -8,8 +8,16 @@
     padding: 60px; /* if you want space between the images */
   }
   div{
-    border: 3px solid #581845;
+    border: 8px solid #581845;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #C70039;
+    background-color: #DAF7A6;
   }
   h1{
+    background-color: #FFC300;
     color: #581845;
+    text-shadow: 2px 2px 3px #C70039;
+  }
+  p{
+    color: #C70039;
   }
